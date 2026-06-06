@@ -1,4 +1,3 @@
-let b = 10;
 
 let a = "abc"
 
