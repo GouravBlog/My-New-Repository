@@ -11,3 +11,7 @@ function abc() {
 function MySecondFunction() {
     return 10;
 }
+
+function newFunction() {
+    console.log("My New Function")
+}
